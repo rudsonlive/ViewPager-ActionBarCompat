@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPageLiveo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tabone">One</string>
+    <string name="tabtwo">Two</string>
+    <string name="tabthree">Three</string>    
+    
+    <string name="fragmentsone">Fragment One</string>
+    <string name="fragmentstwo">Fragment Two</string>
+    <string name="fragmentsthree">Fragment Three</string>    
+
+</resources>
